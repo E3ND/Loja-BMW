@@ -1,0 +1,25 @@
+body{
+    background: #EEE9E9;
+}
+.titulo3{
+    font-size: 50px;
+    font-family: serif;
+}
+.figure{
+    font-size: 60px;
+    color: black;
+    padding-right: 800px;
+    padding-bottom: 300px;
+}
+textarea{
+    vertical-align: top;
+    height: 8em;
+    width: 57em;
+    resize: vertical;
+}
+.figureg{
+    font-size: 60px;
+    color: black;
+    padding-right: 800px;
+    padding-bottom: 400px;
+}

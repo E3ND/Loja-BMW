@@ -1,0 +1,76 @@
+body{
+    background: #EEE9E9;
+}
+.comeco{
+    color: black;
+    padding-right: 500px;
+}
+.comeco h2{
+    font-size: 45px;
+}
+.titulo{
+    font-size: 30px;
+    padding-left: 220px;
+}
+.titulo2{
+    font-size: 20px;
+    padding-left: 220px;
+}
+.texto{
+    font-size: 15px;
+    padding-left: 220px;
+    width: 75%;
+}
+.imaagens img{
+     padding-left: 100px;
+     float: left;
+}
+.imaageens{
+    
+}
+.terra{
+    width: 170px;
+}
+.titulo3{
+    padding-left: 120px;
+    font-size: 30px;
+}
+.titulo4{
+    padding-left: 120px;
+    font-size: 15px;
+}
+.s{
+    font-size: 30px;
+}
+.s2{
+    font-size: 15px;
+}
+.final{
+    height: 200px;
+    background: #8B8989;
+}
+.rodape{
+     padding-left: 100px;
+}
+table tr{
+    color: #FFF;
+}
+table td{
+    color: #FFF;
+    padding-left: 80px;
+}
+.gggg a{
+    color: #FFF;
+    text-decoration: none;
+}
+.gggg a:hover{
+    color: #4169E1;
+}
+.ggg1 a{
+    padding-right: 100px;
+    color: #FFF;
+    text-decoration: none;
+}
+.ggg1 a:hover{
+    color: #4169E1;
+}

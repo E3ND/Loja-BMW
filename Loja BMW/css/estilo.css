@@ -1,0 +1,99 @@
+body{
+    background: #EEE9E9;
+}
+.link a{
+    text-decoration: none;
+}
+.gg{
+    color: black;
+    font-size: 25px;
+    width: 1000px;
+    padding-bottom: 400px;
+    padding-right: 500px;
+}
+.novo{
+    color: black;
+    padding-bottom: 400px;
+    padding-left: 600px;
+    font-size: 25px;
+}
+.touw{
+    padding-right: 600px;
+    font-size: 25px;
+    
+}
+.z4{
+    color: black;
+    font-size: 25px;
+    width: 1000px;
+    padding-bottom: 400px;
+    padding-right: 500px;
+}
+.x5{
+    padding-bottom: 400px;
+    padding-right: 500px;
+    font-size: 25px;
+}
+.i5{
+    padding-right: 500px;
+    font-size: 25px;
+}
+.titulo{
+    padding-right: 800px;
+    text-align: center;
+    font-size: 35px;
+    font-family: serif;
+    color: black;
+}
+.titulo2{
+    padding-right: 800px;
+    text-align: center;
+    font-size: 35px;
+    font-family: serif;
+    color: black;
+}
+.linkS a{
+    color: black;
+    text-decoration: none;
+}
+.linkS a:hover{
+    color: #4169E1;
+}
+.final{
+    height: 200px;
+    background: #8B8989;
+}
+.rodape{
+    padding-left: 100px;
+}
+table tr{
+    color: #FFF;
+}
+table td{
+    color: #FFF;
+    padding-left: 80px;
+}
+.gggg a{
+    color: #FFF;
+    text-decoration: none;
+}
+.gggg a:hover{
+    color: #4169E1;
+}
+.ggg1 a{
+    padding-right: 100px;
+    color: #FFF;
+    text-decoration: none;
+}
+.ggg1 a:hover{
+    color: #4169E1;
+}
+.ggg2{
+    padding-right: 100px;
+    color: #FFF;
+    text-decoration: none;
+}
+.naw a{
+    text-decoration: none;
+    color: #FFF;
+}
